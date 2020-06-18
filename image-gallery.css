@@ -76,62 +76,62 @@ body {
 .img-1 {
     grid-area: img-1;
     min-height: 61rem;
-    background-image: url(/images/arch-one.jpg);
+    background-image: url(./images/arch-one.jpg);
 }
 
 .img-2 {
     grid-area: img-2;
-    background-image: url(/images/arch-two.jpg);
+    background-image: url(./images/arch-two.jpg);
 }
 
 .img-3 {
     grid-area: img-3;
-    background-image: url(/images/arch-three.jpg);
+    background-image: url(./images/arch-three.jpg);
 }
 
 .img-4 {
     grid-area: img-4;
-    background-image: url(/images/arch-four.jpg);
+    background-image: url(./images/arch-four.jpg);
 }
 
 .img-5 {
     grid-area: img-5;
-    background-image: url(/images/arch-five.jpg);
+    background-image: url(./images/arch-five.jpg);
 }
 
 .img-6 {
     grid-area: img-6;
-    background-image: url(/images/arch-six.jpg);
+    background-image: url(./images/arch-six.jpg);
 }
 
 .img-7 {
     grid-area: img-7;
-    background-image: url(/images/arch-seven.jpg);
+    background-image: url(./images/arch-seven.jpg);
 }
 
 .img-8 {
     grid-area: img-8;
-    background-image: url(/images/arch-eight.jpg);
+    background-image: url(./images/arch-eight.jpg);
 }
 
 .img-9 {
     grid-area: img-9;
-    background-image: url(/images/arch-nine.jpg);
+    background-image: url(./images/arch-nine.jpg);
 }
 
 .img-10 {
     grid-area: img-10;
-    background-image: url(/images/arch-ten.jpg);
+    background-image: url(./images/arch-ten.jpg);
 }
 
 .img-11 {
     grid-area: img-11;
-    background-image: url(/images/arch-eleven.jpg);
+    background-image: url(./images/arch-eleven.jpg);
 }
 
 .img-12 {
     grid-area: img-12;
-    background-image: url(/images/arch-twelve.jpg);
+    background-image: url(./images/arch-twelve.jpg);
 }
 
 @media screen and (max-width: 1200px) {
